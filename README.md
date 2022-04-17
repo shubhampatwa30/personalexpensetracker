@@ -1,3 +1,20 @@
+This repo has been forked from haochi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Personal Capital
 
 Python library for accessing Personal Capital data
